@@ -1,0 +1,51 @@
+.titulo{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    align-items: center;
+    justify-content: center;
+}
+
+.titulo2{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 70px;
+}
+
+.icon{
+    width: 200px;
+    margin-left: 170px;
+}
+
+.img1{
+    width: 200px;
+    margin-left: 150px;
+}
+
+.img2{
+    width: 200px;
+    margin-left: 150px;
+}
+
+.description{
+    margin-left: 130px;
+    font-size: xx-large;
+    text-align: center;
+    margin-top: 20px;
+    margin-right: -50px;
+}
+
+.contener{
+    display: flex;
+    margin-top: 100px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.integrantes{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-transform: none;
+    font-size: x-large;
+}
