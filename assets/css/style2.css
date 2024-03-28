@@ -13,6 +13,7 @@
     text-align: left;
     margin-left: 30px;
     margin-top: -200px;
+    font-family: sans-serif;
 }
 
 .ds{
@@ -26,7 +27,7 @@
 
 .titulo{
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: sans-serif;
     align-items: center;
     justify-content: center;
 }
