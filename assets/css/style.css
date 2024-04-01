@@ -50,43 +50,58 @@ body,html{
 
 .contener-cuadros{
     margin-top: -8px;
+    margin-left: 8%;
     padding: 10px;
     display: flex;
-    width: 100%;
-    height: 25% ;
+    width: auto;
+    height: 25%;
     background-color: rgb(0, 255, 255);
-    display: flex;
+    background-attachment: fixed; 
+    flex-direction: column;
 }
+
+.contener-cuadros p{
+    font-size: medium;
+    padding-left: 32px;
+    padding-top: -8px;
+}
+
+.contener-cuadros h4{
+    font-size: x-large;
+    padding-left: 32px;
+}
+
 
 .contener-cuadros1{
     margin-top: -8px;
+    margin-left: 8%;
     padding: 10px;
     display: flex;
-    width: 100%;
+    width: auto;
     height: 25% ;
     background-color: yellow;
-    display: flex;
 }
 
 .contener-cuadros2{
     margin-top: -8px;
+    margin-left: 8%;
     padding: 10px;
     display: flex;
-    width: 100%;
+    width: auto;
     height: 25% ;
     background-color: orange;
-    display: flex;
 }
 
 .contener-cuadros3{
     margin-top: -8px;
+    margin-left: 8%;
     padding: 10px;
     display: flex;
-    width: 100%;
+    width: auto;
     height: 25% ;
     background-color: red;
-    display: flex;
 }
+
 .sidebar_nav a{
     padding: 16px;
     text-decoration: none;
